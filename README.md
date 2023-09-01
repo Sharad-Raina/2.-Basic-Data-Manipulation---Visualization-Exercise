@@ -1,4 +1,4 @@
-# 2.-Basic-Data-Manipulation---Visualization-Exercise
+-Basic-Data-Manipulation---Visualization-Exercise
 Section-1: The pupose of the below exercises (1-7) is to create dictionary and convert into dataframes, how to display etc...
 Section-2: The pupose of the below exercise (8-20) is to understand deleting data with pandas.
 Section-3: The pupose of the below exercise (21-27) is to understand ***filtering & sorting*** data from dataframe.
