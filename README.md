@@ -6,4 +6,4 @@ Section-4: The purpose of the below exercises is to understand how to perform ag
 Section-5: The purpose of the below exercises is to understand how to use lambda-apply-functions.
 Section-6: The purpose of the below exercises is to understand how to perform simple joins.
 Section-7: The purpose of the below exercises is to understand how to perform date time operations.
-Section-8: The purpose of the below exercises is to understand how to create basic graphs
+Section-8: The purpose of the below exercises is to understand how to create basic graphs.
